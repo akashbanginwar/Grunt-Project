@@ -1,0 +1,3 @@
+//some text
+
+var someVariable;
